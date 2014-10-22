@@ -7,6 +7,6 @@
                   kernel,
                   stdlib
                  ]},
-  {mod, { eep_app, []}},
-  {env, []}
+  {modules, []}
  ]}.
+
